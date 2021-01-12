@@ -58,6 +58,12 @@ padding: 20px 0px;}
 .header_text > p{font-size: 22.4px;}
 
 /* 섹션 구역 */
+#ourgallery, #aboutus, #chefmenu, #oradmap{
+    margin-top: 100px;
+}
+
+
+
 #section {
     background: url(../images/bg.jpg) repeat;
     position: relative;
