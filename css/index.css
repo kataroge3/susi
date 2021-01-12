@@ -58,8 +58,9 @@ padding: 20px 0px;}
 .header_text > p{font-size: 22.4px;}
 
 /* 섹션 구역 */
-#ourgallery, #aboutus, #chefmenu, #oradmap{
-    margin-top: 100px;
+#ourgallery, #aboutus, #chefmenu, #roadmap, #reservation
+{
+    padding-top: 120px !important;
 }
 
 
